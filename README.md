@@ -8,8 +8,7 @@ I'm Adam 🧔🏽, my nickname is Tao 🎲, my bachelor's degree majoring in tec
 
 ### More About Me 🧔🏽
 
-- 🌱  I’m currently learning Front-End, Black-End & more 😍.
-- 🐈  I have 3 cats.
+- 🐈  I have 5 cats.
 
 ## Technologies ⚡️
 <p>
