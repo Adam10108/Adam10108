@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You. 😊
 
-I'm Adam 🧔🏽, my nickname is Tao 🎲, my bachelor's degree majoring in technology (B.Tech.) from 🇹🇭 [King Mongkut's University of Technology North Bangkok](https://kmutnb.ac.th/?lang=th). Find out more about me & feel free to connect with me here:
+I'm Adam 🧔🏽, my bachelor's degree majoring in technology (B.Tech.) from [KMUTNB](https://kmutnb.ac.th/?lang=th) 🇹🇭 <br>Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-ajsaen/)](https://www.linkedin.com/in/adam-ajsaen/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:adam.ajsaen@gmail.com)](mailto:adam.ajsaen@gmail.com)
@@ -8,7 +8,7 @@ I'm Adam 🧔🏽, my nickname is Tao 🎲, my bachelor's degree majoring in tec
 
 ### More About Me 🧔🏽
 
-- 🐈  I have 5 cats.
+- I have 5 cats 🐈
 
 ## Technologies ⚡️
 <p>
@@ -35,5 +35,3 @@ I'm Adam 🧔🏽, my nickname is Tao 🎲, my bachelor's degree majoring in tec
   
   <img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white" />
 </p>
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Adam10108&count_private=true&show_icons=true&include_all_commits=true&theme=radical)
